@@ -1,1 +1,1 @@
-# BreastCancerDetection
+ Detect Breast Cancer by applying Logistic Regression model on real world  dataset and predict whether a tumour is Benign (Non-Breast Cancer) or  Malignant (Breast Cancer) based off its characteristics
